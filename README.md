@@ -14,6 +14,7 @@ To Preproces the Dataset and build a multiclass classification model.
 #Data Description 
 
 The dataset contains more than two million customer complaints about consumer financial products. Amongst the various available columns, we have a column that contains the actual text of the complaint and one column containing the product for which the customer is raising the complaint.
+https://catalog.data.gov/dataset/consumer-complaint-database
 
 
 
